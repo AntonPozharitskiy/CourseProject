@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/viewfolder"
+        android:title="User"
+        android:icon="@drawable/viewfolder"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/log_vk"
+        android:title="log_VK"
+        android:icon="@drawable/ic_vk_log"
+        app:showAsAction="ifRoom"></item>
+
+</menu>

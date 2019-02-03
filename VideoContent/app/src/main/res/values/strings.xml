@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pozhargram</string>
+    <string name="deletebutton_text">Delete</string>
+    <integer name="com_vk_sdk_AppId">6827841</integer>
+</resources>
